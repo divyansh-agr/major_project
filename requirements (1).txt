@@ -1,6 +1,0 @@
-opencv-python-headless==4.9.0.80
-cvzone==1.6.1
-numpy==1.26.4
-Pillow==10.3.0
-mediapipe==0.10.14
-tf-keras==2.17.0
